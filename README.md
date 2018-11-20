@@ -19,3 +19,8 @@ Implemente um método de busca binária que recebe um número inteiro `n` e um a
 
 ## Exercício obrigatório
 O objetivo deste exercício é chegar no resultado mais próximo do layout que colocamos como exemplo no repositório, utilize seu conhecimento em HTML e CSS para desenvolver.
+
+Os critérios de avaliação são:
+- Resultado mais próximo
+- Utilização de bootstrap
+- Clareza do código-fonte
