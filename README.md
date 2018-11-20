@@ -1,5 +1,5 @@
-# Entrevista | Exercícios de Lógica
-Escolha dois exercícios abaixo para realizar a implementação de uma programa utilizando uma linguagem de programação a seu gosto.
+# Entrevista | Exercícios de Lógica e Frontend
+Escolha dois exercícios abaixo, além do obrigatório, para realizar a implementação de uma programa utilizando uma linguagem de programação a seu gosto.
 
 Os critérios de avaliação são:
 - Resultado correto
@@ -16,3 +16,6 @@ Encontre os três menores números naturais que são ao mesmo tempo raizes quadr
 
 ## Exercício 3
 Implemente um método de busca binária que recebe um número inteiro `n` e um array **ordenado** de números inteiros `vetor`. O algoritmo deve ser implementado utilizando duas estratégias diferentes: um de maneira iterativa e outro recursiva.
+
+## Exercício obrigatório
+Desenvolva uma página HTML de acordo com o layout deste (arquivo)[https://github.com/ContatoSeguro/interview-logic/blob/master/layout.png]
