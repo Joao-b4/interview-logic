@@ -1,5 +1,5 @@
 # Entrevista | Exercícios de Lógica e Frontend
-Escolha um exercício abaixo, além do obrigatório, para realizar a implementação de uma programa utilizando uma linguagem de programação a seu gosto.
+Escolha um exercício abaixo, além do obrigatório, para realizar a implementação de um programa utilizando uma linguagem de programação a seu gosto.
 
 Os critérios de avaliação são:
 - Resultado correto
