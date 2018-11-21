@@ -18,9 +18,9 @@ Encontre os três menores números naturais que são ao mesmo tempo raizes quadr
 Implemente um método de busca binária que recebe um número inteiro `n` e um array **ordenado** de números inteiros `vetor`. O algoritmo deve ser implementado utilizando duas estratégias diferentes: um de maneira iterativa e outro recursiva.
 
 ## Exercício obrigatório
-O objetivo deste exercício é chegar no resultado mais próximo do layout que colocamos como exemplo no repositório, utilize seu conhecimento em HTML e CSS para desenvolver.
+O objetivo deste exercício é chegar no resultado mais próximo do [layout.png](https://github.com/ContatoSeguro/interview-logic/blob/master/layout.png) que colocamos como exemplo no repositório, utilize seu conhecimento em HTML e CSS para desenvolver.
 
 Os critérios de avaliação são:
-- Resultado mais próximo
+- Resultado mais próximo do [layout.png](https://github.com/ContatoSeguro/interview-logic/blob/master/layout.png)
 - Utilização de bootstrap
 - Clareza do código-fonte
