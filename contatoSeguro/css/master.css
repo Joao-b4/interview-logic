@@ -1,0 +1,308 @@
+body{
+margin: 0px;
+padding: 0px;
+text-transform: uppercase;
+}
+header{
+  width: 99.8%;
+  height: 20%;
+  background: linear-gradient(#82B4BD, #43A1AC);
+  display: block;
+  margin: 1px;
+  border-radius: 1.7px;
+}
+header nav{
+   background-color: rgba(0,0,0,0.0);
+
+}
+header nav a{
+  color: white;
+
+  margin-top: 3px;
+}
+header h2{
+  color: rgb(13,13,64,0.8);
+  font-weight: bold;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.h2c{
+    color: rgb(13,13,64,0.8);
+    font-weight: bold;
+}
+li{
+  margin-left: 20px;
+}
+
+header nav a:hover{
+  color: grey;
+}
+article{
+    width: 100%;
+    margin-top: 5%;
+
+}
+.textId{
+ margin: 20px;
+ font-size: 16px;
+}
+.sib{
+  background-image: url('../img/csl.png');
+  height: 60px;
+  width: 150px;
+  margin-left: 70%;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.iconsCon{
+    height: 180px;
+    width: 180px;
+    margin-left: 25%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    float:center;
+    margin-top:50%;
+}
+.iconsLI{
+    max-height: 180px;
+    max-width: 180px;
+    display: inline-block;
+    margin-left: 100px;
+
+}
+.conCenter{
+    margin-left: 7px;
+    width: 100%;
+    height: 70%;
+}
+.btnCenter{
+    height:10%;
+    width:140%;
+    margin-top: 10%;
+    margin-left: 6.5%;
+
+}
+.infosbtn{
+margin-left: 130px;
+float: center;
+
+}
+.lupaImg{
+    height: 60px;
+    width: 70px;
+    float:left;
+    margin-top: 12%;
+    margin-right: -10px;
+
+}
+.btnEnter{
+    margin-left: 20%;
+}
+.relato{
+    height: 30px;
+    width: 310px;
+    margin-left: 5%;
+    margin-top: 15%;
+    border: none;
+}
+.pesquisa{
+    width: 60%;
+    height: 5%;
+    margin-left: 30%;
+}
+figure {
+  float: right;
+  width: 30%;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+
+}
+.headerT{
+  width: 50%;
+  margin-left: 20%;
+}
+.avatar{
+    width: 140px;
+    height: 175px;
+    margin-top: -69%;
+}
+header nav ul select{
+  background-image: url('../img/br.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  margin-top: 3px;
+  margin-left: 30px;
+}
+
+hr{
+  height:2px;
+  border:none;
+  width: 95%;
+  color: #000;
+  background-color: rgba(0,0,0,0.1);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ul{
+     list-style-type: none;
+}
+section{
+    margin-bottom: 5%;
+}
+footer{
+    height: 40%;
+    width:99.8%;
+    background-color: rgb(192,192,192,0.9);
+    margin: 1px;
+    border-radius: 1.7px;
+}
+.sFooter{
+    width: 200px;
+    height: 200px;
+
+}
+.sibF{
+    background-image: url('../img/csl.png');
+    height: 60px;
+    width: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 60%;
+
+}
+.flink{
+
+    height: auto;
+    width: 35%;
+    float: center;
+    margin-top: -100px;
+    margin-left: 25%;
+
+}
+
+.fflink{
+
+    height: auto;
+    width: 35%;
+    float: center;
+    margin-top: -112px;
+    margin-left: 55%;
+
+}
+.copy{
+
+    width: 70%;
+    margin-left: 30%;
+    margin-top: 3%;
+}
+
+.icon{
+    width: 120px;
+    margin-left: 90%;
+    margin-top: -12%;
+}
+
+li i {
+    font-size: 40px;
+}
+
+li i:hover{
+    font-size: 45px;
+    color: #82B4BD;
+}
+ .denuncias{
+     height: 100%;
+     width: 100%;
+ }
+/*Media Querie Para responsividade em celulares*/
+@media screen and (max-width: 992px) {
+
+    .flink{
+
+        height: auto;
+        width: 35%;
+        float: center;
+        margin-top: -20%;
+        margin-left: 25%;
+
+    }
+
+    .fflink{
+
+        height: auto;
+        width: 35%;
+        float: center;
+        margin-top: -27%;
+        margin-left: 55%;
+
+    }
+    .copy{
+
+        width: 70%;
+        margin-left: 30%;
+        margin-top: 7%;
+    }
+
+    .icon{
+        width: 120px;
+        margin-left: 90%;
+        margin-top: -25%;
+    }
+    .headerT{
+      width: 50%;
+      margin-left: 5%;
+    }
+    .avatar{
+        width: 140px;
+        height: 175px;
+        margin-top: -115%;
+    }
+    .pesquisa{
+        width: 90%;
+        height: 5%;
+        margin-left: 30%;
+    }
+
+    .iconsCon{
+        height: 120px;
+        width: 120px;
+        margin-left: 10%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        float:center;
+        margin-top:50%;
+    }
+    .iconsLI{
+        max-height: 180px;
+        max-width: 180px;
+        display: inline-block;
+        margin-left: 10%;
+
+    }
+    .conCenter{
+        margin-left: 7px;
+        width: 100%;
+        height: 70%;
+    }
+    .btnCenter{
+        height:10%;
+        width:140%;
+        margin-top: 3%;
+        margin-left: 5.8%;
+
+    }
+    .infosbtn{
+    margin-left: 7.6%;
+    float: center;
+
+    }
+    .btnEnter{
+        margin-left: 20%;
+    }
+}
